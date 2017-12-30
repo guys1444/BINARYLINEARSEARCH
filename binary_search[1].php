@@ -15,3 +15,5 @@ function contains($v, Array $vs)
 	}
 	return $vs[$left] === $v;
 }
+
+אלגוריתם חיפוש בינרי PHP
