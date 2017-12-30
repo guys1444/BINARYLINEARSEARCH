@@ -6,3 +6,5 @@ function contains($v, Array $vs)
 	}
 	return false;
 }
+
+אלגוריתם חיפוש לינארי
